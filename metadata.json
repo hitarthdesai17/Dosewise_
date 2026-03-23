@@ -1,0 +1,5 @@
+{
+  "name": "MedBuddy",
+  "description": "AI-powered medical document parser that converts complex jargon into clear, actionable health dashboards.",
+  "requestFramePermissions": []
+}
